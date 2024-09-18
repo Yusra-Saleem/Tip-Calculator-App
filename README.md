@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -39,3 +40,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 # Tip-Calculator-App
 This is my Next.js Project
 >>>>>>> 26a6a282f858cad09be50e1986a40b34f34c944c
+=======
+# Tip-Calculator-App
+>>>>>>> c9aa02c632c9944332d051e16e3c5ad1fb2f7c0e
