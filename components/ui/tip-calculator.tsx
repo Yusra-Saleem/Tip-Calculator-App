@@ -89,7 +89,7 @@ export default function TipCalculatorComponent() {
             {/* Tip Buttons */}
             <section className='flex mt-4 flex-col items-center'>
               <Label>Select Tip %</Label>
-              <div className='grid grid-cols-3 gap-y-4 mt-2 gap-x-3 justify-center'>
+              <div className='grid grid-cols-3 gap-y-4 mt-2 gap-x-1 justify-center'>
                 {tips.map((tip, index) => (
                   <TipButton
                     key={index}
