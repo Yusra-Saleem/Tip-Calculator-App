@@ -20,7 +20,7 @@ function Label(props: React.HtmlHTMLAttributes<HTMLLabelElement>) {
 // Tip buttons function
 function TipButton(props: React.HtmlHTMLAttributes<HTMLButtonElement>) {
   return (
-    <button {...props} className='bg-[#B3001B] hover:bg-red-400 text-white hover:text-[#B3001B] border-2 border-outset hover:font-bold py-2 w-[75px] h-[50px] rounded ml-[5px]'>
+    <button {...props} className='bg-[#B3001B] hover:bg-red-400 text-white hover:text-[#B3001B] border-2 border-outset hover:font-bold py-2 w-[75px] h-[50px] rounded '>
       {props.children}
     </button>
   )
